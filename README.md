@@ -1,6 +1,6 @@
 # Java-Document
+
 <a href="#testheader">Link to header</a>
-<a href="?testheader">Link to header</a>
 
 
 
